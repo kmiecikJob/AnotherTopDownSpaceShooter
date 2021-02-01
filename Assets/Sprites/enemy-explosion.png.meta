@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 3f1047c74f11bc9418c81aec57df293b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5023912819059519410
+    second: enemy-explosion_0
+  - first:
+      213: -8219618193473390447
+    second: enemy-explosion_1
+  - first:
+      213: -6159426776236573817
+    second: enemy-explosion_2
+  - first:
+      213: -7556598021721848230
+    second: enemy-explosion_3
+  - first:
+      213: 8839547695717447740
+    second: enemy-explosion_4
+  - first:
+      213: 5904286585298036838
+    second: enemy-explosion_5
+  - first:
+      213: 4434318185857995605
+    second: enemy-explosion_6
+  - first:
+      213: 6058824406019944829
+    second: enemy-explosion_7
+  - first:
+      213: -1664846318629469682
+    second: enemy-explosion_8
+  - first:
+      213: -5579159220241312818
+    second: enemy-explosion_9
+  - first:
+      213: -4158776477208141877
+    second: enemy-explosion_10
+  - first:
+      213: 6077058561413982177
+    second: enemy-explosion_11
+  - first:
+      213: -4588917736941650529
+    second: enemy-explosion_12
+  - first:
+      213: -5070437791503217147
+    second: enemy-explosion_13
+  - first:
+      213: 548130746106368536
+    second: enemy-explosion_14
+  - first:
+      213: -5222296531708760067
+    second: enemy-explosion_15
+  - first:
+      213: 7725802422350262432
+    second: enemy-explosion_16
+  - first:
+      213: 28391243942255821
+    second: enemy-explosion_17
+  - first:
+      213: -4798284268844109883
+    second: enemy-explosion_18
+  - first:
+      213: 2918667713479826086
+    second: enemy-explosion_19
+  - first:
+      213: 257061606218521162
+    second: enemy-explosion_20
+  - first:
+      213: -6688681271083894705
+    second: enemy-explosion_21
+  - first:
+      213: -4780824109756934115
+    second: enemy-explosion_22
+  - first:
+      213: -7001740568853695113
+    second: enemy-explosion_23
+  - first:
+      213: 1382691570143438084
+    second: enemy-explosion_24
+  - first:
+      213: 6182604190252748502
+    second: enemy-explosion_25
+  - first:
+      213: -4750996561511647366
+    second: enemy-explosion_26
+  - first:
+      213: 4087283317550273621
+    second: enemy-explosion_27
+  - first:
+      213: 7101104431173784671
+    second: enemy-explosion_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy-explosion_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb3662bf1558aa0800000000000000
+      internalID: -6159426776236573817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 19
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5689d4c222912790800000000000000
+      internalID: -7556598021721848230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c387c5a9bc16caa70800000000000000
+      internalID: 8839547695717447740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 55
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02497c081745e8e0800000000000000
+      internalID: -1664846318629469682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 8
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a350609c065450800000000000000
+      internalID: 6077058561413982177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d7a12a1a3e050c0800000000000000
+      internalID: -4588917736941650529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 24
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e0cb561bf22a9b0800000000000000
+      internalID: -5070437791503217147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 12
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4adb0c3b24419300800000000000000
+      internalID: 257061606218521162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 11
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b808ac02d4de90800000000000000
+      internalID: -7001740568853695113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-explosion_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 11
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d01d5bd03c8260800000000000000
+      internalID: 7101104431173784671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
